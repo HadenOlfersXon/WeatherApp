@@ -8,7 +8,7 @@
 import Foundation
 
 private enum API {
-    static let key = "91d3c728a39e6eb9bfe3b62fbf848a6c"
+    static let key = ""
 }
 
 class OpenWeatherMapController: WebServiceController {
